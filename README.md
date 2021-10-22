@@ -1,4 +1,6 @@
-### Hi there 👋
+<iframe src="https://giphy.com/embed/5xaOcLJUZMX9cKtW6ha" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/thegifys-transparent-5xaOcLJUZMX9cKtW6ha">via GIPHY</a></p>
+
+Love to connect with people and opportunities! :earth_americas:
 
 <hr>
 
