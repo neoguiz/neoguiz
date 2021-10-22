@@ -1,3 +1,5 @@
+<img src="me.svg">
+
 <img src="https://media2.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif?cid=ecf05e47yun1hx0yfh1vxr5n0x0pzv90abwzlczqk7egscwf&rid=giphy.gif&ct=ts" width="140" height="140">
 Love to connect with people and opportunities! :earth_americas:
 
