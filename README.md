@@ -5,7 +5,7 @@ Love to connect with people and opportunities! :earth_americas:
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoguiz&show_icons=true&theme=midnight-purple&title_color=ffffff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoguiz&show_icons=true&theme=midnight-purple&title_color=ffffff)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoguiz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
