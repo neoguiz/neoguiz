@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/5xaOcLJUZMX9cKtW6ha" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/thegifys-transparent-5xaOcLJUZMX9cKtW6ha">via GIPHY</a></p>
-
+<img src="https://media2.giphy.com/media/5xaOcLJUZMX9cKtW6ha/giphy.gif?cid=ecf05e47uwmyvyi5o5cr7y3nicx68y2ozch8o7n474xd66v8&rid=giphy.gif&ct=s" width="140" height="140" margin="0">
 Love to connect with people and opportunities! :earth_americas:
 
 <hr>
