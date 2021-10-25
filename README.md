@@ -2,19 +2,21 @@
 
 <h2>Love to connect with people and opportunities!</h2>
 
-<p>- Computer Engineering Student ⚙️<br>
+- Computer Engineering Student ⚙️<br>
 Semester: 4/9</p>
 
-<p>- Currently specializing myself in JavaScript 👨🏽‍💻 <br>
-Interested in: React, Node and Angular <br></p>
+- Currently specializing myself in JavaScript 👨🏽‍💻 <br>
+Interested in: React, Node and Angular <br>
 
-<p>- My Skills 💻:<br>
-  HTML, CSS, C, JavaScript, Java and Python</p>
+- My Skills 💻:<br>
+  HTML, CSS, C, JavaScript, Java and Python
   
- <h3>Social📱</h3>
+ <h3>Social 📱</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f?style=flat-square&logo=Linkedin&logoColor=ffffff&color=652CC2&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/guilhermediasbarbosa/) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&color652CC2&link=https://instagram.com/neo.guiz/)](https://instagram.com/neo.guiz/)
+
+<hr>
 
 <p align="center">
   <a href="https://github.com/neoguiz/github-readme-stats">
