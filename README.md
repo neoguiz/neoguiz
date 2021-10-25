@@ -1,11 +1,17 @@
-<img src="Group.png" width="300px" align="right">
+<img src="Group.png" width="380px" align="right">
 
 <h2>Love to connect with people and opportunities!</h2>
-<p>- Currently specializing myself in JavaScript <br>
-Interested in: React and Node <br></p>
 
-<p>- My Skills:<br>
+<p>- Computer Engineering Student ⚙️<br>
+Semester: 4/9</p>
+
+<p>- Currently specializing myself in JavaScript 👨🏽‍💻 <br>
+Interested in: React, Node and Angular <br></p>
+
+<p>- My Skills 💻:<br>
   HTML, CSS, C, JavaScript, Java and Python</p>
+  
+ <h3>Social📱</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoguiz&show_icons=true&theme=midnight-purple&title_color=ffffff)<br>
