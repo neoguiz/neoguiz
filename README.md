@@ -19,7 +19,7 @@ Interested in: React, Node and Angular <br>
 <hr>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/neoguiz">
     <img
       align="center"
       height="150"
