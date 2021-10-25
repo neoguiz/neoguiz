@@ -19,7 +19,7 @@ Interested in: React, Node and Angular <br>
 <hr>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md">
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md" target="_blank">
     <img
       align="center"
       height="150"
