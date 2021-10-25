@@ -19,14 +19,14 @@ Interested in: React, Node and Angular <br>
 <hr>
 
 <p align="center">
-  <a href="https://github.com/neoguiz/github-readme-stats">
+  <a href="">
     <img
       align="center"
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=neoguiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
     />
   </a>  
-  <a href="https://github.com/neoguiz/github-readme-stats">
+  <a href="">
     <img
       align="center"
       height="150"
