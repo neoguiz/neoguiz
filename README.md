@@ -35,5 +35,5 @@ Interested in: React, Node and Angular <br>
   </a>
  </p>
 
-![snake gif](https://github.com/neoguiz/neoguiz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/neoguiz/neoguiz/blob/output/github-contribution-grid-snake.svg) -->
 <!-- efeito da cobrinha -->
