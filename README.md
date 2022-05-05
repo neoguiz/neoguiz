@@ -2,8 +2,8 @@
 
 <h2>Love to connect with people and opportunities!</h2>
 
-- Computer Engineering Student ⚙️<br>
-Semester: 4/9</p>
+- Data Science Student ⚙️<br>
+Semester: 1/7</p>
 
 - Currently specializing myself in JavaScript 👨🏽‍💻 <br>
 Interested in: React, Node and Angular <br>
