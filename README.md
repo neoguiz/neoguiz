@@ -3,10 +3,10 @@
 <h2>Love to connect with people and opportunities!</h2>
 
 - Data Science Student ⚙️<br>
-Semester: 1/7</p>
+Period: 2/7</p>
 
-- Currently specializing myself in JavaScript 👨🏽‍💻 <br>
-Interested in: React, Node and Angular <br>
+- Currently specializing myself in Python and R👨🏽‍💻 <br>
+Interested in: Analytics/Automatization <br>
 
 - My Skills 💻:<br>
   HTML, CSS, C, JavaScript, Java and Python
