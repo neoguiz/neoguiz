@@ -3,7 +3,7 @@
 <h2>Love to connect with people and opportunities!</h2>
 
 - Data Science Student ⚙️<br>
-Period: 2/7</p>
+Period: 3/7</p>
 
 - Currently specializing myself in Python and R👨🏽‍💻 <br>
 Interested in: Analytics/Automatization <br>
