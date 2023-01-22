@@ -9,7 +9,7 @@ Period: 3/7</p>
 Interested in: Analytics/Automatization <br>
 
 - My Skills 💻:<br>
-  HTML, CSS, C, JavaScript, Java and Python
+  HTML, CSS, JavaScript, R and Python
   
  <h3>Social 📱</h3>
 
