@@ -16,7 +16,6 @@ Interested in: Analytics/Automatization <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f?style=flat-square&logo=Linkedin&logoColor=ffffff&color=652CC2&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/guilhermediasbarbosa/) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&color652CC2&link=https://instagram.com/neo.guiz/)](https://instagram.com/neo.guiz/)
 
-<hr>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md" target="_blank">
