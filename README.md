@@ -1,6 +1,6 @@
 <img src="Group.png" width="380px" align="right">
 
-<h2>Love to connect with people and opportunities!</h2>
+<p>Love to connect with people and opportunities!<p>
 
 - Data Science Student ⚙️<br>
 Period: 6/7</p>
