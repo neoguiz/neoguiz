@@ -34,5 +34,5 @@ Interested in: Analytics/Automatization <br>
   </a>
  </p>
 
-![snake gif](https://github.com/neoguiz/neoguiz/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<neoguiz>/<neoguiz>/blob/output/github-contribution-grid-snake2.svg)
 <!-- efeito da cobrinha -->
